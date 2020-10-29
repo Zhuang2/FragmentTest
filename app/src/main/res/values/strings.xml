@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="fragment">这是右边的Fragment</string>
+    <string name="button">Button</string>
+</resources>
